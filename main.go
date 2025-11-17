@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/argon2r/gator/internal/config"
+	"github.com/argon2r/gatorcli/internal/config"
 )
 
 func main() {
